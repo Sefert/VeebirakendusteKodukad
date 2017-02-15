@@ -1,0 +1,17 @@
+body {
+    background-color: lightsteelblue;
+    margin: auto;
+    align-content: center;
+    text-align: center;
+}
+div{
+    text-align: center;
+    width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: skyblue;
+}
+div div {
+    text-align: left;
+    margin: auto;
+}
