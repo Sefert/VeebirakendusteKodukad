@@ -7,7 +7,10 @@
     </head>
 <body>
     <h2><u>Üks kaugõpet iseloomustav pilt</u></h2>
-    <div>
+    <div class="left">
+        <button action="godstable.html">Kuva tabel</button>
+    </div>
+    <div class="mid">
         <img src="img/pff.jpg" alt="mooses wc-s"/>
         <p> Kui siiber, mine <a target="_blank" href="http://www.google.com">GOOGLE</a></p>
         <div>

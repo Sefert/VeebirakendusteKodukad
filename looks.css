@@ -4,14 +4,23 @@ body {
     align-content: center;
     text-align: center;
 }
-div{
+.mid{
     text-align: center;
     width: 550px;
     margin-left: auto;
     margin-right: auto;
     background-color: skyblue;
 }
+.left{
+    float: left;
+    width: 300px;
+}
 div div {
     text-align: left;
     margin: auto;
+}
+th, tr, td {
+    border: 1px solid purple;
+    height: 50px;
+    width: 200px;
 }
