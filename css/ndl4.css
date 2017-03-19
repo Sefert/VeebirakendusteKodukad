@@ -2,8 +2,8 @@
     height: 200px;
     width: 200px;
     position: fixed;
-    margin-left: 50px;
-    margin-top: 50px; 
+    top:  200px;
+    left: 20px; 
 }
 .notspecial{
     border-radius: 50%;
@@ -60,6 +60,8 @@
 img {
     width: 100%;  
     position: fixed;
+    bottom: 0px;
+	left:0px;
 }
 body {
     background-color: #0A24A9;
