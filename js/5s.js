@@ -51,4 +51,17 @@ window.onload = function () {
             };
         });
     };
+    if (window.location.href.match('magic.html') !== null || window.location.href.match('backwards.php') !== null) {
+        function setValueKeyPress()
+        {
+
+            var setValue = document.getElementById("seven");
+            var s = setValue.value;
+            //var lblValue = document.getElementById("lblValue");
+            //lblValue.innerText = "The text box contains: "+s;
+
+            //var s = $("#edValue").val();
+            //$("#lblValue").text(s);
+        }
+    };
 };
